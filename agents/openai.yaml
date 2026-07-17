@@ -1,0 +1,4 @@
+interface:
+  display_name: "qiqixiaohongshu-carousel"
+  short_description: "先做爆款調研再用 Image2.0 產出完整小紅書圖文內容成品"
+  default_prompt: "請幫我做小紅書圖文。文案或主題：；圖片頁數：預設 5 張；喜歡的風格：可留空，留空時請根據爆款調研設計。"
