@@ -14,9 +14,9 @@
 </p>
 
 <p align="center">
-  <img src="assets/showcase/codex-5-tools-cover.png" width="35%" alt="Codex 五個必裝工具小紅書封面">
+  <img src="showcase-codex-5-tools.png" width="35%" alt="Codex 五個必裝工具小紅書封面">
   &nbsp;&nbsp;
-  <img src="assets/showcase/ai-tools-cover.png" width="35%" alt="2026 職場 AI 工具小紅書封面">
+  <img src="showcase-ai-tools-cover.png" width="35%" alt="2026 職場 AI 工具小紅書封面">
 </p>
 
 ## 它不是普通排版工具
@@ -75,10 +75,10 @@ git clone https://github.com/aiwithlanny/qiqixiaohongshu-carousel.git ~/.codex/s
 以下圖片都是這套工作流實際產出的 Image2.0 成品，不是網頁模板或 PPT 截圖。
 
 <p align="center">
-  <img src="assets/showcase/ai-tools-cover.png" width="23%" alt="小紅書圖文封面">
-  <img src="assets/showcase/ai-tools-research.png" width="23%" alt="小紅書爆款調研內頁">
-  <img src="assets/showcase/ai-tools-map.png" width="23%" alt="小紅書工具清單內頁">
-  <img src="assets/showcase/ai-tools-kit.png" width="23%" alt="小紅書行動建議內頁">
+  <img src="showcase-ai-tools-cover.png" width="23%" alt="小紅書圖文封面">
+  <img src="showcase-ai-tools-research.png" width="23%" alt="小紅書爆款調研內頁">
+  <img src="showcase-ai-tools-map.png" width="23%" alt="小紅書工具清單內頁">
+  <img src="showcase-ai-tools-kit.png" width="23%" alt="小紅書行動建議內頁">
 </p>
 
 ## 它怎麼工作
