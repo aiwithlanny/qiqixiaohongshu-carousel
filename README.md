@@ -1,4 +1,3 @@
-
 <h1 align="center">qiqixiaohongshu-carousel</h1>
 
 <p align="center"><strong>一句話，生成符合爆款邏輯的精美小紅書圖文。</strong></p>
@@ -15,9 +14,9 @@
 </p>
 
 <p align="center">
-  <img src="assets/showcase/codex-5-tools-cover.png" width="35%" alt="Codex 五個必裝工具小紅書封面">
+  <img src="showcase-codex-5-tools.png" width="35%" alt="Codex 五個必裝工具小紅書封面">
   &nbsp;&nbsp;
-  <img src="assets/showcase/ai-tools-cover.png" width="35%" alt="2026 職場 AI 工具小紅書封面">
+  <img src="showcase-ai-tools-cover.png" width="35%" alt="2026 職場 AI 工具小紅書封面">
 </p>
 
 ## 它不是普通排版工具
@@ -76,11 +75,98 @@ git clone https://github.com/aiwithlanny/qiqixiaohongshu-carousel.git ~/.codex/s
 以下圖片都是這套工作流實際產出的 Image2.0 成品，不是網頁模板或 PPT 截圖。
 
 <p align="center">
-  <img src="assets/showcase/ai-tools-cover.png" width="23%" alt="小紅書圖文封面">
-  <img src="assets/showcase/ai-tools-research.png" width="23%" alt="小紅書爆款調研內頁">
-  <img src="assets/showcase/ai-tools-map.png" width="23%" alt="小紅書工具清單內頁">
-  <img src="assets/showcase/ai-tools-kit.png" width="23%" alt="小紅書行動建議內頁">
+  <img src="showcase-ai-tools-cover.png" width="23%" alt="小紅書圖文封面">
+  <img src="showcase-ai-tools-research.png" width="23%" alt="小紅書爆款調研內頁">
+  <img src="showcase-ai-tools-map.png" width="23%" alt="小紅書工具清單內頁">
+  <img src="showcase-ai-tools-kit.png" width="23%" alt="小紅書行動建議內頁">
 </p>
+
+### 同一主題，生成不同點擊角度
+
+**案例 1：AI 一人公司最值得做的 5 個賽道**
+
+同一個主題，分別使用「高密度清單」、「高手秘密」和「真人科普」三種封面公式。人物 IP 保持一致，但標題鉤子、視覺重心與配色全部改變。
+
+<p align="center">
+  <img src="showcase-ai-company-list.png" width="31%" alt="AI 一人公司高密度清單型封面">
+  <img src="showcase-ai-company-neon.png" width="31%" alt="AI 一人公司高手秘密型封面">
+  <img src="showcase-ai-company-explainer.png" width="31%" alt="AI 一人公司真人科普型封面">
+</p>
+
+**案例 2：盤點 100 個 AI 工具，這 5 個最值得用**
+
+封面同時放入工具名稱與可辨識 Logo，一張走乾淨收藏型，一張走黑底汰汰對比型，讓相同內容可以測試不同受眾反應。
+
+<p align="center">
+  <img src="showcase-ai-tools-100-list.png" width="46%" alt="100 個 AI 工具清單型封面">
+  <img src="showcase-ai-tools-100-neon.png" width="46%" alt="100 個 AI 工具汰汰對比型封面">
+</p>
+
+> 以上 5 張封面均使用同一個自有 IP 形象作為人物參考，再由 Image2.0 重新構圖生成。
+
+## 內建 7 種知識類爆款視覺模板
+
+這些不是固定底圖，而是 Skill 從真實高互動封面中拆出的「標題公式＋資訊層級＋視覺重心」。生圖時會根據主題重新設計，不會複製原作。
+
+> 以下為使用者提供的公開頁面截圖，只用於研究封面結構與傳播邏輯；版權歸原作者所有，不代表合作或本 Skill 產出。
+
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <img src="benchmark-token-saving.png" width="100%" alt="量化結果型封面案例"><br>
+      <strong>1. 量化結果型</strong><br>
+      「90%」與「1 個 Skill」形成強烈的成本對比，適合省時、省錢、降低 Token 等主題。
+    </td>
+    <td width="33%" valign="top">
+      <img src="benchmark-install-tutorial.png" width="100%" alt="保姆級教程型封面案例"><br>
+      <strong>2. 保姆級教程型</strong><br>
+      品牌詞＋新手保證＋步驟路徑，讓讀者一眼知道「這篇能帶我完成安裝」。
+    </td>
+    <td width="33%" valign="top">
+      <img src="benchmark-beginner-tutorial.png" width="100%" alt="零基礎終極教程型封面案例"><br>
+      <strong>3. 零基礎終極教程型</strong><br>
+      可走強戲劇人物風，也可走留白類比風；核心都是降低新手畏難感。
+    </td>
+  </tr>
+  <tr>
+    <td width="33%" valign="top">
+      <img src="benchmark-skill-secrets.png" width="100%" alt="高手秘密型封面案例"><br>
+      <strong>4. 高手秘密型</strong><br>
+      「90% 的工作」、「絕不告訴你」製造結果承諾與資訊差，適合進階技巧。
+    </td>
+    <td width="33%" valign="top">
+      <img src="benchmark-listicle.png" width="100%" alt="高密度清單型封面案例"><br>
+      <strong>5. 高密度清單型</strong><br>
+      大標題＋Top 10＋用途摘要，像一張可保存的清單，適合工具榜與 Skill 推薦。
+    </td>
+    <td width="33%" valign="top">
+      <img src="benchmark-open-source.png" width="100%" alt="開源發布型封面案例"><br>
+      <strong>6. 新工具／開源發布型</strong><br>
+      工具名與「開源」直接放大，搭配 GitHub 或產品畫面，適合新資源首發。
+    </td>
+  </tr>
+  <tr>
+    <td width="33%" valign="top">
+      <img src="benchmark-explainer.png" width="100%" alt="問題科普型封面案例"><br>
+      <strong>7. 問題科普／真人講解型</strong><br>
+      「什麼是……？」先承接搜尋需求，再用「普通人如何……」給出實際好處。
+    </td>
+    <td width="66%" colspan="2" valign="top">
+      <strong>同一主題，不只一種包裝</strong><br><br>
+      例如「Codex Skill」可以被轉成：<br>
+      • 結果型：1 個 Skill 幫你降低 90% Token<br>
+      • 新手型：Codex 保姆級 Skill 安裝教程<br>
+      • 進階型：Codex 高手不說的 3 個神級 Skill<br>
+      • 清單型：Codex 必裝 10 個 Skill 清單<br>
+      • 科普型：什麼是 Codex？普通人如何上手<br><br>
+      Skill 會先對照真實互動數據，再為你選擇最適合的切入角度，而不是每次都套同一個模板。
+    </td>
+  </tr>
+</table>
+
+### 模板不是拿來照抄
+
+Skill 只借鑑高互動封面的標題結構、資訊層級、對比關係與視覺重心。人物、文案、圖標、配色和版面都會重新設計；如果主題是 Codex、NotebookLM 等高辨識度工具，才會在封面保留正確 Logo 或產品視覺。
 
 ## 它怎麼工作
 
@@ -94,6 +180,8 @@ AgentReach 調研近期爆款筆記
 你提供想對標的封面截圖
       ↓
 一起確認主標題、頁數、排版和主視覺
+      ↓
+從 7 種知識類視覺公式中選擇最適合的模板
       ↓
 Image2.0 生成成品並做品質檢查
 ```
